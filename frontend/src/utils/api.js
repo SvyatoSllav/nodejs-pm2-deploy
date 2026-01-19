@@ -130,6 +130,6 @@ class Api {
   }
 }
 // Замените на адрес вашего бэкенда
-const api = new Api("https://api.svyatsite.nomoreparties.co");
+const api = new Api("https://svyatback.nomorepartiessbs.ru");
 
 export default api;
