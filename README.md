@@ -8,4 +8,4 @@ IP адрес: 158.160.152.230
 
 Frontend: https://svyat.nomorepartiessbs.ru
 
-Backend: https://svyatback.nomorepartiessbs.ru
+Backend: https://api.svyat.nomorepartiessbs.ru
